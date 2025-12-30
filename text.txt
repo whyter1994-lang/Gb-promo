@@ -1,0 +1,3 @@
+gb-promo/
+├── index.html
+└── image1_100_free_spins.png
